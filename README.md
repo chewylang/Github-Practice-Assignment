@@ -1,8 +1,9 @@
 # MSIS
-Team Member 1 : chewylang (Matthew Lang)
+alexandernikas (Alex Nikas)
 
-Team Member 2 : kiraxjj (Jiaqi Xiao)
+gershenm (Marcus Gershenberg)
 
-Team Member 3 : gershenm (Marcus Gershenberg)
+chewylang (Matthew Lang)
 
-Team Member 4 : alexandernikas (Alex Nikas)
+kiraxjj (Jiaqi Xiao)
+
