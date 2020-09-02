@@ -1,9 +1,9 @@
 # MSIS
 alexandernikas (Alex Nikas)
 
-gershenm (Marcus Gershenberg)
-
 chewylang (Matthew Lang)
+
+gershenm (Marcus Gershenberg)
 
 kiraxjj (Jiaqi Xiao)
 
